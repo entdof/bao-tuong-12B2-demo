@@ -81,7 +81,7 @@
 }
 
 .body img {
-    width: 800px;
+    width: 600px;
     height: auto;
     border: solid rgba(10, 137, 227);
     border-radius: 10px;
@@ -99,7 +99,7 @@
 }
 
 .body table tr td img {
-    width: 600px;
+    width: 500px;
     height: auto;
 }
 
